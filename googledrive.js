@@ -12,7 +12,7 @@ const GoogleDriveManager = {
     // 4. Create OAuth 2.0 credentials (Web application)
     // 5. Add your domain to authorized JavaScript origins
     // 6. Replace CLIENT_ID below with your client ID
-    CLIENT_ID: 'CLIENT_ID: '659407820783-hnlu4hoein0lsa690dp90g1krei76dit.apps.googleusercontent.com',
+    CLIENT_ID: '659407820783-hnlu4hoein0lsa690dp90g1krei76dit.apps.googleusercontent.com',
 ',
     API_KEY: 'YOUR_API_KEY', // Optional, for public API calls
     DISCOVERY_DOC: 'https://www.googleapis.com/discovery/v1/apis/drive/v3/rest',
