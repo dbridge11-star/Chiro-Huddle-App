@@ -1,0 +1,17 @@
+{
+    "name": "Chiro Huddle",
+    "short_name": "Huddle",
+    "description": "HIPAA-focused chiropractic office huddle management",
+    "start_url": "/Chiro-Huddle-App/index.html",
+    "display": "standalone",
+    "orientation": "landscape",
+    "background_color": "#f1f5f9",
+    "theme_color": "#2563eb",
+    "icons": [
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}
